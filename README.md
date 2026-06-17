@@ -15,3 +15,12 @@
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
+
+### 📊 摸鱼战力观测仪
+
+<p align="left">
+  <!-- 左边：战力评级面板 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=futurelesswindchan&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <!-- 右边：最常用语言环形图 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=futurelesswindchan&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
